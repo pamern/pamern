@@ -2,11 +2,6 @@
   <title id="title">Hello, world!</title>
   <desc id="description">A minimal developer banner with soft blue and lavender waves and a blinking terminal cursor.</desc>
   <defs>
-    <linearGradient id="background" x2="1" y2="0.3">
-      <stop stop-color="#DCEEF8"/>
-      <stop offset="0.55" stop-color="#DCEEF8"/>
-      <stop offset="1" stop-color="#D8C7F0"/>
-    </linearGradient>
     <linearGradient id="blue" x2="1" y2="0">
       <stop stop-color="#A8D8EA"/>
       <stop offset="1" stop-color="#B8C6F2"/>
@@ -15,32 +10,40 @@
       <stop stop-color="#B8C6F2"/>
       <stop offset="1" stop-color="#D8C7F0"/>
     </linearGradient>
-    <clipPath id="frame"><rect width="1200" height="180" rx="16"/></clipPath>
+    <linearGradient id="edge-fade">
+      <stop stop-color="white" stop-opacity="0"/>
+      <stop offset="0.12" stop-color="white"/>
+      <stop offset="0.88" stop-color="white"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="soft-edges" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="180">
+      <rect width="1200" height="180" fill="url(#edge-fade)"/>
+    </mask>
   </defs>
   <style>
-    .wave { animation: drift 12s ease-in-out infinite alternate; }
-    .wave-back { animation-duration: 18s; animation-direction: alternate-reverse; }
-    .wave-front { animation-duration: 15s; }
+    .wave { animation: drift 6s ease-in-out infinite alternate; }
+    .wave-back { animation-duration: 9s; animation-direction: alternate-reverse; }
+    .wave-front { animation-duration: 7s; }
     .cursor { animation: blink 1.6s steps(1, end) infinite; }
     @keyframes drift {
-      from { transform: translate(-75px, -4px); }
-      to { transform: translate(75px, 4px); }
+      from { transform: translate(-100px, -7px); }
+      to { transform: translate(100px, 7px); }
     }
     @keyframes blink {
       0%, 55%, 100% { opacity: 1; }
       56%, 99% { opacity: 0; }
     }
+    @media (prefers-color-scheme: dark) { .greeting { fill: #DCEEF8; } }
     @media (prefers-reduced-motion: reduce) {
       .wave, .cursor { animation: none; }
     }
   </style>
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="180" fill="url(#background)"/>
-    <path class="wave wave-back" d="M-120 42 C100 4 220 74 440 40 S800 8 1020 38 S1240 70 1320 28 V-40 H-120Z" fill="url(#lavender)" opacity="0.32"/>
-    <path class="wave" d="M-120 134 C80 80 260 168 480 133 S800 92 1020 130 S1230 156 1320 112 V220 H-120Z" fill="url(#blue)" opacity="0.44"/>
-    <path class="wave wave-front" d="M-120 157 C120 121 300 192 550 154 S900 126 1080 151 S1250 180 1320 151 V220 H-120Z" fill="url(#lavender)" opacity="0.48"/>
+  <g mask="url(#soft-edges)">
+    <path class="wave wave-back" d="M-200 58 C60 12 230 100 470 56 S830 20 1060 57 S1300 95 1400 52 L1400 76 C1180 120 1030 56 800 76 S440 120 220 79 S-60 52-200 80Z" fill="url(#lavender)" opacity="0.4"/>
+    <path class="wave" d="M-200 105 C60 55 240 143 480 104 S830 65 1060 101 S1300 145 1400 99 L1400 126 C1180 163 1010 98 800 120 S450 157 220 121 S-60 94-200 130Z" fill="url(#blue)" opacity="0.5"/>
+    <path class="wave wave-front" d="M-200 132 C40 95 260 166 510 128 S860 96 1090 132 S1310 161 1400 125 L1400 144 C1200 176 1040 135 820 146 S450 175 220 144 S-50 126-200 151Z" fill="url(#lavender)" opacity="0.5"/>
   </g>
-  <g fill="#243B53" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Liberation Mono', monospace" font-size="42" font-weight="500">
+  <g class="greeting" fill="#243B53" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Liberation Mono', monospace" font-size="42" font-weight="500">
     <text x="600" y="90" dy="0.35em" text-anchor="middle">Hello, world!</text>
     <text class="cursor" x="765" y="90" dy="0.35em" aria-hidden="true">_</text>
   </g>

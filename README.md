@@ -26,9 +26,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ngocmypzg@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-356F94?style=for-the-badge&amp;labelColor=555555" alt="Email ngocmypzg@gmail.com" /></a>
-  <a href="https://github.com/pamern"><img src="https://img.shields.io/badge/GitHub-Profile-356F94?style=for-the-badge&amp;labelColor=555555" alt="GitHub profile" /></a>
-  <a href="https://pamern.github.io"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-356F94?style=for-the-badge&amp;labelColor=555555" alt="Portfolio website — Coming Soon" /></a>
+  <a href="mailto:ngocmypzg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
+  <a href="https://pamern.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <h3>👩‍💻 About Me</h3>
