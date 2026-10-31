@@ -70,9 +70,59 @@ I'm interested in using data to understand problems and find useful insights. I'
 - SQL Queries & Data Manipulation
 - Python for Data Analysis
 
-## Featured Projects
+<h2 align="center">🌟 Featured Projects</h2>
 
-- [fashion-ecommerce-analytics](https://github.com/pamern/fashion-ecommerce-analytics) — Customer segmentation notebooks and SQL models for e-commerce analytics.
-- [tnbike-project](https://github.com/pamern/tnbike-project) — Sales reporting, business forecasting, and dashboards.
-- [global_ads_performance](https://github.com/pamern/global_ads_performance) — Advertising performance SQL models, KPI checks, and data quality exploration.
-- [airbnb-analytics-platform](https://github.com/pamern/airbnb-analytics-platform) — Airbnb SQL models and Python projects for listing segmentation and price modeling.
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Fashion E-commerce Analytics</h3>
+      <p>
+        <span>🛍️</span>
+      </p>
+      <p><strong>Customer segmentation notebooks and SQL models for e-commerce analytics.</strong></p>
+      <p>
+        <a href="https://github.com/pamern/fashion-ecommerce-analytics#readme"><img src="https://img.shields.io/badge/Explore_Project-FF6B81?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Explore Fashion E-commerce Analytics" /></a>
+        <a href="https://github.com/pamern/fashion-ecommerce-analytics"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Fashion E-commerce Analytics GitHub repository" /></a>
+      </p>
+      <p><code>Python</code> <code>SQL</code> <code>Customer Segmentation</code></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>TNBike Sales Analytics</h3>
+      <p>
+        <span>🚲</span>
+      </p>
+      <p><strong>Sales reporting, business forecasting, and dashboards.</strong></p>
+      <p>
+        <a href="https://github.com/pamern/tnbike-project#readme"><img src="https://img.shields.io/badge/Explore_Project-45C4BD?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Explore TNBike Sales Analytics" /></a>
+        <a href="https://github.com/pamern/tnbike-project"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="TNBike Sales Analytics GitHub repository" /></a>
+      </p>
+      <p><code>Sales Analysis</code> <code>Forecasting</code> <code>Dashboards</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Global Ads Performance</h3>
+      <p>
+        <span>📊</span>
+      </p>
+      <p><strong>Advertising performance SQL models, KPI checks, and data quality exploration.</strong></p>
+      <p>
+        <a href="https://github.com/pamern/global_ads_performance#readme"><img src="https://img.shields.io/badge/Explore_Project-7C83FD?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Explore Global Ads Performance" /></a>
+        <a href="https://github.com/pamern/global_ads_performance"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Global Ads Performance GitHub repository" /></a>
+      </p>
+      <p><code>SQL</code> <code>Marketing Analytics</code> <code>Data Quality</code></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>Airbnb Analytics Platform</h3>
+      <p>
+        <span>🏡</span>
+      </p>
+      <p><strong>Airbnb SQL models and Python projects for listing segmentation and price modeling.</strong></p>
+      <p>
+        <a href="https://github.com/pamern/airbnb-analytics-platform#readme"><img src="https://img.shields.io/badge/Explore_Project-F2A65A?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Explore Airbnb Analytics Platform" /></a>
+        <a href="https://github.com/pamern/airbnb-analytics-platform"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Airbnb Analytics Platform GitHub repository" /></a>
+      </p>
+      <p><code>Python</code> <code>SQL</code> <code>Price Modeling</code></p>
+    </td>
+  </tr>
+</table>
