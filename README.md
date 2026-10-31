@@ -85,17 +85,6 @@ I'm interested in using data to understand problems and find useful insights. I'
   </tr>
 </table>
 
-<h3>Currently Exploring</h3>
-
-<p align="center">
-  <img src="assets/animated-divider.svg" width="1200" alt="Animated blue divider" />
-</p>
-
-- Data Analysis & Exploratory Data Analysis (EDA)
-- Data Visualization & Insights
-- SQL Queries & Data Manipulation
-- Python for Data Analysis
-
 <h3>🌟 Featured Projects</h3>
 
 <p align="center">
