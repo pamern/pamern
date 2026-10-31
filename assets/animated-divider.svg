@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-labelledby="title">
+  <title id="title">Animated blue divider</title>
+  <defs>
+    <linearGradient id="line">
+      <stop stop-color="#7777FF"/>
+      <stop offset="0.5" stop-color="#64CFFF"/>
+      <stop offset="1" stop-color="#7777FF"/>
+    </linearGradient>
+    <linearGradient id="glow">
+      <stop stop-color="#DCEEF8" stop-opacity="0"/>
+      <stop offset="0.06" stop-color="#FFFFFF"/>
+      <stop offset="0.94" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DCEEF8" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="track"><rect x="8" y="11" width="1184" height="2" rx="1"/></clipPath>
+  </defs>
+  <style>
+    .highlight { animation: run 0.9s linear infinite, flash 0.65s steps(1, end) infinite; }
+    .base { opacity: 0.85; }
+    @keyframes run { from { transform: translateX(-240px); } to { transform: translateX(1200px); } }
+    @keyframes flash {
+      0%, 44% { opacity: 1; }
+      45%, 69% { opacity: 0.35; }
+      70%, 84% { opacity: 1; }
+      85%, 100% { opacity: 0.35; }
+    }
+    @media (prefers-reduced-motion: reduce) { .highlight { animation: none; opacity: 0; } .base { animation: none; opacity: 1; } }
+  </style>
+  <rect class="base" x="8" y="11" width="1184" height="2" rx="1" fill="url(#line)"/>
+  <g clip-path="url(#track)">
+    <rect class="highlight" x="0" y="11" width="240" height="2" fill="url(#glow)"/>
+  </g>
+</svg>
