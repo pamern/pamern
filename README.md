@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="1200" alt="Hello, world! Exploring data. Building things. Learning every day." />
+  <img src="assets/banner.svg" width="1200" alt="Hello, world!" />
 </p>
 
 <h1 align="center">Hi, I'm pamern! 👋</h1>
