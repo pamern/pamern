@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" width="1200" alt="Hello, world!" />
 </p>
 
-<h1 align="center">
+<h1 align="left">
   <img src="assets/typing-intro.svg" width="420" alt="Hi, I'm pamern!" />
 </h1>
 
