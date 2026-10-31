@@ -11,12 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/happy-cat.gif" width="180" alt="Happy cartoon cat working on a computer" />
-</p>
-
-<p align="center">
-  <strong>Aspiring Data Analyst</strong><br />
-  Turning raw data into meaningful insights.
+  <img src="assets/cat-intro.svg" width="1200" alt="Happy cat working on a computer. Aspiring Data Analyst — Turning raw data into meaningful insights." />
 </p>
 
 <h3>🌐 Let's Connect</h3>
