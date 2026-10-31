@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title description">
+  <title id="title">Hello, world! 👋</title>
+  <desc id="description">Exploring data. Building things. Learning every day. PAMERN / GITHUB PROFILE.</desc>
+  <rect width="1200" height="240" rx="16" fill="#EDF4F8"/>
+  <g fill="none" stroke="#64748B" stroke-opacity=".14">
+    <circle cx="1110" cy="38" r="122"/>
+    <circle cx="1110" cy="38" r="164"/>
+    <path d="M830 240C915 120 1045 285 1200 145" stroke-width="2"/>
+    <path d="M790 240C910 90 1050 255 1200 115"/>
+  </g>
+  <rect x="56" y="48" width="28" height="3" rx="1.5" fill="#356F94"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="96" y="54" font-size="12" font-weight="600" letter-spacing="2" fill="#356F94">PAMERN / GITHUB PROFILE</text>
+    <text x="56" y="126" font-size="46" font-weight="700" fill="#203A50">Hello, world! 👋</text>
+    <text x="58" y="168" font-size="21" fill="#356F94">Exploring data. Building things. Learning every day.</text>
+  </g>
+</svg>
