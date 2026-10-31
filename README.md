@@ -2,7 +2,9 @@
   <img src="assets/banner.svg" width="1200" alt="Hello, world!" />
 </p>
 
-<h1 align="center">Hi, I'm pamern! 👋</h1>
+<h1 align="center">
+  <img src="assets/typing-intro.svg" width="420" alt="Hi, I'm pamern!" />
+</h1>
 
 <p align="center">
   <img src="assets/happy-cat.gif" width="180" alt="Happy cartoon cat working on a computer" />
@@ -40,11 +42,6 @@ I'm interested in using data to understand problems and find useful insights. I'
         <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
         <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
       </p>
-      <h3>📈 Data Visualization &amp; BI</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power BI" />
-        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" />
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🗄️ Database &amp; SQL</h3>
@@ -52,6 +49,17 @@ I'm interested in using data to understand problems and find useful insights. I'
         <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logoColor=white" alt="SQL" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Data Visualization &amp; BI</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power BI" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>⚙️ Development Tools</h3>
       <p>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />

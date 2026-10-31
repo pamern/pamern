@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="80" viewBox="0 0 420 80" role="img" aria-labelledby="title description">
+  <title id="title">Hi, I'm pamern!</title>
+  <desc id="description">A repeating typewriter greeting.</desc>
+  <style>
+    .ink { fill: #243B53; }
+    .reveal { animation: typing 7s steps(14, end) infinite; }
+    .cursor { animation: travel 7s steps(14, end) infinite, blink 0.8s steps(1, end) infinite; }
+    @keyframes typing {
+      0%, 10% { width: 0; }
+      50%, 75% { width: 336px; }
+      95%, 100% { width: 0; }
+    }
+    @keyframes travel {
+      0%, 10% { transform: translateX(0); }
+      50%, 75% { transform: translateX(336px); }
+      95%, 100% { transform: translateX(0); }
+    }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @media (prefers-color-scheme: dark) { .ink { fill: #DCEEF8; } }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal { animation: none; width: 336px; }
+      .cursor { animation: none; opacity: 0; }
+    }
+  </style>
+  <defs>
+    <clipPath id="typing" clipPathUnits="userSpaceOnUse">
+      <rect class="reveal" x="36" y="12" width="336" height="56"/>
+    </clipPath>
+  </defs>
+  <text class="ink" x="36" y="53" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Liberation Mono', monospace" font-size="40" font-weight="600" textLength="336" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing)">Hi, I'm pamern!</text>
+  <rect class="ink cursor" x="39" y="22" width="3" height="38" rx="1" aria-hidden="true"/>
+</svg>
