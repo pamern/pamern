@@ -25,7 +25,7 @@
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
 I'm interested in using data to understand problems and find useful insights. I'm learning SQL and Python through practical projects, with a focus on data exploration, analysis, and visualization.
 
