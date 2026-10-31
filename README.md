@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/cat-intro.svg" width="1200" alt="Happy cat working on a computer — Data Analyst" />
+  <img src="assets/cat-intro-v2.svg" width="1200" alt="Happy cat working on a computer — Data Analyst" />
 </p>
 
 <h3>🌐 Let's Connect</h3>
