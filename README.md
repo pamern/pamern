@@ -103,9 +103,9 @@ I'm interested in using data to understand problems and find useful insights. I'
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3><a href="https://github.com/pamern/insurance-analytics#readme">Insurance Analytics (VIZOR)</a></h3>
+      <h3><a href="https://github.com/pamern/insurance-analytics#readme">Insurance Analytics</a></h3>
       <p>
-        <a href="https://github.com/pamern/insurance-analytics#readme"><img src="assets/project-insurance.svg" width="128" height="128" alt="Open Insurance Analytics (VIZOR) project" /></a>
+        <a href="https://github.com/pamern/insurance-analytics#readme"><img src="assets/project-insurance.svg" width="128" height="128" alt="Open Insurance Analytics project" /></a>
       </p>
       <p><strong>Power BI report on insurance sales, product and channel performance, policy renewals, and KPI attainment.</strong></p>
       <p>
