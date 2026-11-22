@@ -79,7 +79,7 @@ I'm interested in using data to understand problems and find useful insights. I'
     <td width="50%" align="center" valign="top">
       <h3><a href="https://github.com/pamern/global_ads_performance#readme">Global Ads Performance</a></h3>
       <p>
-        <a href="https://github.com/pamern/global_ads_performance#readme"><img src="assets/global-ads-cover.png" width="400" alt="Open Global Ads Performance project" /></a>
+        <a href="https://github.com/pamern/global_ads_performance#readme"><img src="assets/project-chart.svg" width="64" height="64" alt="Open Global Ads Performance project" /></a>
       </p>
       <p><strong>Power BI dashboards for cross-platform ad performance and simulations of budget allocation across Google, Meta, and TikTok.</strong></p>
       <p>
@@ -91,7 +91,7 @@ I'm interested in using data to understand problems and find useful insights. I'
     <td width="50%" align="center" valign="top">
       <h3><a href="https://github.com/pamern/tnbike-project#readme">TNBike Sales Analytics</a></h3>
       <p>
-        <a href="https://github.com/pamern/tnbike-project#readme"><img src="assets/tnbike-cover.png" width="400" alt="Open TNBike Sales Analytics project" /></a>
+        <a href="https://github.com/pamern/tnbike-project#readme"><img src="assets/project-bike.svg" width="64" height="64" alt="Open TNBike Sales Analytics project" /></a>
       </p>
       <p><strong>Automated order extraction from emails and PDFs, with sales dashboards and forecasting.</strong></p>
       <p>
@@ -105,7 +105,7 @@ I'm interested in using data to understand problems and find useful insights. I'
     <td width="50%" align="center" valign="top">
       <h3><a href="https://github.com/pamern/insurance-analytics#readme">Insurance Analytics (VIZOR)</a></h3>
       <p>
-        <a href="https://github.com/pamern/insurance-analytics#readme"><img src="assets/insurance-cover.png" width="400" alt="Open Insurance Analytics (VIZOR) project" /></a>
+        <a href="https://github.com/pamern/insurance-analytics#readme"><img src="assets/project-insurance.svg" width="64" height="64" alt="Open Insurance Analytics (VIZOR) project" /></a>
       </p>
       <p><strong>Power BI report on insurance sales, product and channel performance, policy renewals, and KPI attainment.</strong></p>
       <p>
@@ -117,7 +117,7 @@ I'm interested in using data to understand problems and find useful insights. I'
     <td width="50%" align="center" valign="top">
       <h3><a href="https://github.com/pamern/airbnb-analytics-platform#readme">Airbnb Analytics Platform</a></h3>
       <p>
-        <a href="https://github.com/pamern/airbnb-analytics-platform#readme"><img src="assets/airbnb-cover.png" width="400" alt="Open Airbnb Analytics Platform project" /></a>
+        <a href="https://github.com/pamern/airbnb-analytics-platform#readme"><img src="assets/project-home.svg" width="64" height="64" alt="Open Airbnb Analytics Platform project" /></a>
       </p>
       <p><strong>Airbnb data pipeline that validates raw data, loads it into MotherDuck, and transforms it with dbt.</strong></p>
       <p>
