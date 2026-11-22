@@ -14,17 +14,6 @@
   <img src="assets/cat-intro-v2.svg" width="1200" alt="Happy cat working on a computer — Data Analyst" />
 </p>
 
-<h3>🌐 Let's Connect</h3>
-
-<p align="center">
-  <img src="assets/animated-divider.svg" width="1200" alt="Animated blue divider" />
-</p>
-
-<p align="center">
-  <a href="mailto:ngocmypzg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
-  <a href="https://pamern.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
-</p>
-
 <h3>👩‍💻 About Me</h3>
 
 <p align="center">
@@ -88,23 +77,23 @@ I'm interested in using data to understand problems and find useful insights. I'
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>Fashion E-commerce Analytics</h3>
+      <h3><a href="https://github.com/pamern/global_ads_performance#readme">Global Ads Performance</a></h3>
       <p>
-        <img src="assets/project-shopping.svg" width="64" height="64" alt="Shopping bags" />
+        <a href="https://github.com/pamern/global_ads_performance#readme"><img src="assets/global-ads-cover.png" width="400" alt="Open Global Ads Performance project" /></a>
       </p>
-      <p><strong>Customer segmentation notebooks and SQL models for e-commerce analytics.</strong></p>
+      <p><strong>Power BI dashboards for cross-platform ad performance and simulations of budget allocation across Google, Meta, and TikTok.</strong></p>
       <p>
-        <a href="https://github.com/pamern/fashion-ecommerce-analytics#readme"><img src="https://img.shields.io/badge/Explore_Project-FF6B81?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Explore Fashion E-commerce Analytics" /></a>
-        <a href="https://github.com/pamern/fashion-ecommerce-analytics"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Fashion E-commerce Analytics GitHub repository" /></a>
+        <a href="https://github.com/pamern/global_ads_performance#readme"><img src="https://img.shields.io/badge/Explore_Project-7C83FD?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Explore Global Ads Performance" /></a>
+        <a href="https://github.com/pamern/global_ads_performance"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Global Ads Performance GitHub repository" /></a>
       </p>
-      <p><code>Python</code> <code>SQL</code> <code>Customer Segmentation</code></p>
+      <p><code>SQL</code> <code>Marketing Analytics</code> <code>Data Quality</code></p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>TNBike Sales Analytics</h3>
+      <h3><a href="https://github.com/pamern/tnbike-project#readme">TNBike Sales Analytics</a></h3>
       <p>
-        <img src="assets/project-bike.svg" width="64" height="64" alt="Bicycle" />
+        <a href="https://github.com/pamern/tnbike-project#readme"><img src="assets/tnbike-cover.png" width="400" alt="Open TNBike Sales Analytics project" /></a>
       </p>
-      <p><strong>Sales reporting, business forecasting, and dashboards.</strong></p>
+      <p><strong>Automated order extraction from emails and PDFs, with sales dashboards and forecasting.</strong></p>
       <p>
         <a href="https://github.com/pamern/tnbike-project#readme"><img src="https://img.shields.io/badge/Explore_Project-45C4BD?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Explore TNBike Sales Analytics" /></a>
         <a href="https://github.com/pamern/tnbike-project"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="TNBike Sales Analytics GitHub repository" /></a>
@@ -114,23 +103,23 @@ I'm interested in using data to understand problems and find useful insights. I'
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>Global Ads Performance</h3>
+      <h3><a href="https://github.com/pamern/insurance-analytics#readme">Insurance Analytics (VIZOR)</a></h3>
       <p>
-        <img src="assets/project-chart.svg" width="64" height="64" alt="Bar chart" />
+        <a href="https://github.com/pamern/insurance-analytics#readme"><img src="assets/insurance-cover.png" width="400" alt="Open Insurance Analytics (VIZOR) project" /></a>
       </p>
-      <p><strong>Advertising performance SQL models, KPI checks, and data quality exploration.</strong></p>
+      <p><strong>Power BI report on insurance sales, product and channel performance, policy renewals, and KPI attainment.</strong></p>
       <p>
-        <a href="https://github.com/pamern/global_ads_performance#readme"><img src="https://img.shields.io/badge/Explore_Project-7C83FD?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Explore Global Ads Performance" /></a>
-        <a href="https://github.com/pamern/global_ads_performance"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Global Ads Performance GitHub repository" /></a>
+        <a href="https://github.com/pamern/insurance-analytics#readme"><img src="https://img.shields.io/badge/Explore_Project-FF6B81?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Explore Insurance Analytics" /></a>
+        <a href="https://github.com/pamern/insurance-analytics"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Insurance Analytics GitHub repository" /></a>
       </p>
-      <p><code>SQL</code> <code>Marketing Analytics</code> <code>Data Quality</code></p>
+      <p><code>Power BI</code> <code>Python</code> <code>Insurance Analytics</code></p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>Airbnb Analytics Platform</h3>
+      <h3><a href="https://github.com/pamern/airbnb-analytics-platform#readme">Airbnb Analytics Platform</a></h3>
       <p>
-        <img src="assets/project-home.svg" width="64" height="64" alt="House with garden" />
+        <a href="https://github.com/pamern/airbnb-analytics-platform#readme"><img src="assets/airbnb-cover.png" width="400" alt="Open Airbnb Analytics Platform project" /></a>
       </p>
-      <p><strong>Airbnb SQL models and Python projects for listing segmentation and price modeling.</strong></p>
+      <p><strong>Airbnb data pipeline that validates raw data, loads it into MotherDuck, and transforms it with dbt.</strong></p>
       <p>
         <a href="https://github.com/pamern/airbnb-analytics-platform#readme"><img src="https://img.shields.io/badge/Explore_Project-F2A65A?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Explore Airbnb Analytics Platform" /></a>
         <a href="https://github.com/pamern/airbnb-analytics-platform"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Airbnb Analytics Platform GitHub repository" /></a>
